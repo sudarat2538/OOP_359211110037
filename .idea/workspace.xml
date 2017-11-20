@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fdccf046-82ed-40fe-99aa-6e132cf89e1f" name="Default" comment="Variables and Data types">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP_359211110037/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OOP_359211110037/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="fdccf046-82ed-40fe-99aa-6e132cf89e1f" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/../OOP_359211110037/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -311,7 +309,14 @@
       <option name="project" value="LOCAL" />
       <updated>1511165758524</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Variables and Data types">
+      <created>1511166555235</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1511166555235</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">

@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fdccf046-82ed-40fe-99aa-6e132cf89e1f" name="Default" comment="Add Information">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP_359211110037/src/ooplab2/TestInputData.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP_359211110037/src/ooplab2/TestVariable.java" />
+    <list default="true" id="fdccf046-82ed-40fe-99aa-6e132cf89e1f" name="Default" comment="Variables and Data types">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP_359211110037/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OOP_359211110037/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../OOP_359211110037/out/" />
@@ -39,8 +37,8 @@
       <file leaf-file-name="TestInputData.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../OOP_359211110037/src/ooplab2/TestInputData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="154">
+              <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -306,7 +304,14 @@
       <option name="project" value="LOCAL" />
       <updated>1511062540096</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Variables and Data types">
+      <created>1511165758524</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1511165758524</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -347,7 +352,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Testing upload to Github" />
     <MESSAGE value="Add Information" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Information" />
+    <MESSAGE value="Variables and Data types" />
+    <option name="LAST_COMMIT_MESSAGE" value="Variables and Data types" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -378,14 +384,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../OOP_359211110037/src/oop_lab/s359211110037/rmutsv/com/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="61" lean-forward="false" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../OOP_359211110037/src/ooplab2/TestVariable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="332">
@@ -394,10 +392,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../OOP_359211110037/src/oop_lab/s359211110037/rmutsv/com/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="61" lean-forward="false" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../OOP_359211110037/src/ooplab2/TestInputData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="154">
+          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
           <folding />
         </state>
       </provider>

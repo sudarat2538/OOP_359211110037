@@ -14,7 +14,7 @@ public static void main(String[] args) throws IOException {
     BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
     System.out.print("Enter your Score :");
     int score = Integer.parseInt(reader.readLine());
-    if (score <= 49){
+    if (score < 50){
         System.out.println("You grade : F");
     }
     else if (score <= 59){
@@ -26,7 +26,7 @@ public static void main(String[] args) throws IOException {
     else if (score <= 79){
         System.out.println("You grade :B");
     }
-    else if (score >= 80){
+    else  {
         System.out.println("You grade :A");
     }
 

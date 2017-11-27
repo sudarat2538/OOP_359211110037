@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fdccf046-82ed-40fe-99aa-6e132cf89e1f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP_359211110037/src/ooplap3/TestSwitch.java" />
+    <list default="true" id="fdccf046-82ed-40fe-99aa-6e132cf89e1f" name="Default" comment="Switch Case">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP_359211110037/src/ooplap3/TestForLoop.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP_359211110037/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OOP_359211110037/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP_359211110037/src/ooplap3/CalGrade.java" afterPath="$PROJECT_DIR$/../OOP_359211110037/src/ooplap3/CalGrade.java" />
     </list>
     <ignored path="$PROJECT_DIR$/../OOP_359211110037/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,11 +38,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CalGrade.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CalGrade.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../OOP_359211110037/src/ooplap3/CalGrade.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="16" column="15" lean-forward="false" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+            <state relative-caret-position="374">
+              <caret line="20" column="15" lean-forward="true" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -49,11 +50,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestSwitch.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestSwitch.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../OOP_359211110037/src/ooplap3/TestSwitch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
+            <state relative-caret-position="506">
               <caret line="23" column="50" lean-forward="false" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestForLoop.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../OOP_359211110037/src/ooplap3/TestForLoop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="42" lean-forward="true" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -83,15 +94,16 @@
         <option value="$PROJECT_DIR$/../OOP_359211110037/src/ooplab2/TestVariable.java" />
         <option value="$PROJECT_DIR$/../OOP_359211110037/src/ooplab2/TestInputData.java" />
         <option value="$PROJECT_DIR$/../OOP_359211110037/src/ooplap3/TestCondition.java" />
-        <option value="$PROJECT_DIR$/../OOP_359211110037/src/ooplap3/CalGrade.java" />
         <option value="$PROJECT_DIR$/../OOP_359211110037/src/ooplap3/TestSwitch.java" />
+        <option value="$PROJECT_DIR$/../OOP_359211110037/src/ooplap3/TestForLoop.java" />
+        <option value="$PROJECT_DIR$/../OOP_359211110037/src/ooplap3/CalGrade.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
+    <option name="x" value="476" />
     <option name="y" value="20" />
-    <option name="width" value="1346" />
+    <option name="width" value="880" />
     <option name="height" value="688" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -165,7 +177,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestSwitch">
+  <component name="RunManager" selected="Application.CalGrade">
     <configuration name="CalGrade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -204,6 +216,25 @@
       <module name="OOP_359211110037" />
       <envs />
     </configuration>
+    <configuration name="TestForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ooplap3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ooplap3.TestForLoop" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../OOP_359211110037" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="OOP_359211110037" />
+      <envs />
+    </configuration>
     <configuration name="TestInputData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -231,25 +262,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="ooplap3.TestSwitch" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../OOP_359211110037" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="OOP_359211110037" />
-      <envs />
-    </configuration>
-    <configuration name="TestVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ooplab2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="ooplab2.TestVariable" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../OOP_359211110037" />
@@ -343,19 +355,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.TestVariable" />
-      <item index="1" class="java.lang.String" itemvalue="Application.TestInputData" />
-      <item index="2" class="java.lang.String" itemvalue="Application.TestCondition" />
-      <item index="3" class="java.lang.String" itemvalue="Application.CalGrade" />
-      <item index="4" class="java.lang.String" itemvalue="Application.TestSwitch" />
+      <item index="0" class="java.lang.String" itemvalue="Application.TestInputData" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TestCondition" />
+      <item index="2" class="java.lang.String" itemvalue="Application.CalGrade" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TestSwitch" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TestForLoop" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TestSwitch" />
-        <item index="1" class="java.lang.String" itemvalue="Application.CalGrade" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TestCondition" />
-        <item index="3" class="java.lang.String" itemvalue="Application.TestInputData" />
-        <item index="4" class="java.lang.String" itemvalue="Application.TestVariable" />
+        <item index="0" class="java.lang.String" itemvalue="Application.CalGrade" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TestForLoop" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TestSwitch" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TestCondition" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TestInputData" />
       </list>
     </recent_temporary>
   </component>
@@ -447,7 +459,14 @@
       <option name="project" value="LOCAL" />
       <updated>1511770970295</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Switch Case">
+      <created>1511772240036</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1511772240036</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -456,7 +475,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32753164" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -494,7 +513,8 @@
     <MESSAGE value="Test Condition" />
     <MESSAGE value="Cal Grade" />
     <MESSAGE value="Cal Grade1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cal Grade1" />
+    <MESSAGE value="Switch Case" />
+    <option name="LAST_COMMIT_MESSAGE" value="Switch Case" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -559,21 +579,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../OOP_359211110037/src/ooplap3/CalGrade.java">
+    <entry file="file://$PROJECT_DIR$/../OOP_359211110037/src/ooplap3/TestSwitch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="16" column="15" lean-forward="false" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="506">
+          <caret line="23" column="50" lean-forward="false" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../OOP_359211110037/src/ooplap3/TestSwitch.java">
+    <entry file="file://$PROJECT_DIR$/../OOP_359211110037/src/ooplap3/TestForLoop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="23" column="50" lean-forward="false" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
+        <state relative-caret-position="154">
+          <caret line="7" column="42" lean-forward="true" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OOP_359211110037/src/ooplap3/CalGrade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="20" column="15" lean-forward="true" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

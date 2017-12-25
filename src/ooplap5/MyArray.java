@@ -16,7 +16,7 @@ public class MyArray {
         num[1]=100;
         num[3]=num[1]*3; //100*3=300
         num[5-1]=num[3]*50; //300/50=6
-        //num[5]=500;
+        //num[5]=500; ใส่ไม่ได้ ไม่มีค่าตำแหน่งที่5
         showData(num);
         int num2[] = new int[MAX]; //10elements
         showData(num2);

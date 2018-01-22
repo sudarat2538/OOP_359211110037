@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fdccf046-82ed-40fe-99aa-6e132cf89e1f" name="Default" comment="My String Token">
+    <list default="true" id="fdccf046-82ed-40fe-99aa-6e132cf89e1f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplap7/SuperCar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplap7/mySuperCar.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ooplap7/Student.java" afterPath="$PROJECT_DIR$/src/ooplap7/Student.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ooplap7/StudentApp.java" afterPath="$PROJECT_DIR$/src/ooplap7/StudentApp.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,51 +18,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="myString.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ooplab6/myString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="625">
-              <caret line="25" column="45" lean-forward="false" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StudentApp.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StudentApp.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ooplap7/StudentApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="31" column="47" lean-forward="false" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
+            <state relative-caret-position="200">
+              <caret line="47" column="51" lean-forward="true" selection-start-line="43" selection-start-column="8" selection-end-line="47" selection-end-column="51" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="compareString.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ooplab6/compareString.java">
+      <file leaf-file-name="SuperCar.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ooplap7/SuperCar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="25" lean-forward="false" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+            <state relative-caret-position="275">
+              <caret line="30" column="43" lean-forward="false" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="myStrBuffer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ooplab6/myStrBuffer.java">
+      <file leaf-file-name="mySuperCar.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ooplap7/mySuperCar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="385">
+              <caret line="34" column="17" lean-forward="false" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="myStrToken.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ooplab6/myStrToken.java">
+      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ooplap7/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" column="48" lean-forward="false" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+            <state relative-caret-position="550">
+              <caret line="26" column="5" lean-forward="false" selection-start-line="24" selection-start-column="3" selection-end-line="26" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -103,7 +96,10 @@
         <option value="$PROJECT_DIR$/src/ooplab6/compareString.java" />
         <option value="$PROJECT_DIR$/src/ooplab6/myStrBuffer.java" />
         <option value="$PROJECT_DIR$/src/ooplab6/myStrToken.java" />
+        <option value="$PROJECT_DIR$/src/ooplap7/Student.java" />
+        <option value="$PROJECT_DIR$/src/ooplap7/SuperCar.java" />
         <option value="$PROJECT_DIR$/src/ooplap7/StudentApp.java" />
+        <option value="$PROJECT_DIR$/src/ooplap7/mySuperCar.java" />
       </list>
     </option>
   </component>
@@ -202,7 +198,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StudentApp">
+  <component name="RunManager" selected="Application.mySuperCar">
     <configuration name="StudentApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -360,14 +356,14 @@
       <module name="OOP_359211110037" />
       <envs />
     </configuration>
-    <configuration name="myString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="mySuperCar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ooplab6.*" />
+          <option name="PATTERN" value="ooplap7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="ooplab6.myString" />
+      <option name="MAIN_CLASS_NAME" value="ooplap7.mySuperCar" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -380,19 +376,19 @@
       <envs />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.myString" />
-      <item index="1" class="java.lang.String" itemvalue="Application.compareString" />
-      <item index="2" class="java.lang.String" itemvalue="Application.myStrBuffer" />
-      <item index="3" class="java.lang.String" itemvalue="Application.myStrToken" />
-      <item index="4" class="java.lang.String" itemvalue="Application.StudentApp" />
+      <item index="0" class="java.lang.String" itemvalue="Application.compareString" />
+      <item index="1" class="java.lang.String" itemvalue="Application.myStrBuffer" />
+      <item index="2" class="java.lang.String" itemvalue="Application.myStrToken" />
+      <item index="3" class="java.lang.String" itemvalue="Application.StudentApp" />
+      <item index="4" class="java.lang.String" itemvalue="Application.mySuperCar" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.StudentApp" />
-        <item index="1" class="java.lang.String" itemvalue="Application.myStrToken" />
-        <item index="2" class="java.lang.String" itemvalue="Application.myStrBuffer" />
-        <item index="3" class="java.lang.String" itemvalue="Application.compareString" />
-        <item index="4" class="java.lang.String" itemvalue="Application.myString" />
+        <item index="0" class="java.lang.String" itemvalue="Application.mySuperCar" />
+        <item index="1" class="java.lang.String" itemvalue="Application.StudentApp" />
+        <item index="2" class="java.lang.String" itemvalue="Application.myStrToken" />
+        <item index="3" class="java.lang.String" itemvalue="Application.myStrBuffer" />
+        <item index="4" class="java.lang.String" itemvalue="Application.compareString" />
       </list>
     </recent_temporary>
   </component>
@@ -564,7 +560,14 @@
       <option name="project" value="LOCAL" />
       <updated>1514201362710</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Student App2">
+      <created>1516607255107</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1516607255107</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -573,7 +576,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32436708" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31487343" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -622,7 +625,8 @@
     <MESSAGE value="Compare String" />
     <MESSAGE value="My String Buffer" />
     <MESSAGE value="My String Token" />
-    <option name="LAST_COMMIT_MESSAGE" value="My String Token" />
+    <MESSAGE value="Student App2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Student App2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -942,10 +946,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplap7/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="26" column="5" lean-forward="false" selection-start-line="24" selection-start-column="3" selection-end-line="26" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ooplap7/StudentApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="31" column="47" lean-forward="false" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
+        <state relative-caret-position="200">
+          <caret line="47" column="51" lean-forward="true" selection-start-line="43" selection-start-column="8" selection-end-line="47" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplap7/SuperCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="30" column="43" lean-forward="false" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplap7/mySuperCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="34" column="17" lean-forward="false" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
           <folding />
         </state>
       </provider>

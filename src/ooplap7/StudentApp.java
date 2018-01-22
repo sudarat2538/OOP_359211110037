@@ -10,6 +10,7 @@ public class StudentApp {
         s1.setName("Boy Saiyai");
         s1.setMajor("Information System");
         s1.setGroup("IS221");
+
         Student s2 = new Student("222222222222",
                 "Girl Saiyai",
                 "Maketing",
@@ -18,6 +19,11 @@ public class StudentApp {
         showData(s2);
         Student s3 = new Student();
         s3 = inputData(s3);
+        showData(s3);
+
+        //test
+        //System.out.println(Student.faculty);
+        System.out.println(s1.faculty);
     }//main
 
     private static Student inputData(Student s) {

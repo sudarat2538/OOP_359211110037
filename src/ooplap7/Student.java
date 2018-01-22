@@ -2,10 +2,11 @@ package ooplap7;
 
 
 public class Student {
- private String id;
- private String name;
- private String major;
- private String group;
+    public  String faculty = "Management Technology";
+    private String id;
+    private String name;
+     private String major;
+     private String group;
 
  //constructor การสร้างชื่อที่มีชื่อเดียวกับชื่อคลาส
     public Student (){}

@@ -1,48 +1,39 @@
 package ooplap7;
 
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class mySuperCar {
     public static void main(String[] args) {
-        SuperCar c1 = new SuperCar();
-        c1.setBrand("honda");
-        c1.setColor("Black");
-        c1.setSize("111");
-        c1.setMaxspeed("199");
-        c1.setRigin("thailand");
-
-        getSuperCarInfo(c1);
-
-        SuperCar c = new SuperCar();
-        c = inputData(c);
-
+        ArrayList<SuperCar> myCarList = new ArrayList<SuperCar>();
+        myCarList = inputData(myCarList);
+        System.out.println("== Show Super Car Info");
+        for (int i = 0; i < myCarList.size(); i++) {
+            System.out.println(myCarList.get(i).getSuperCarInfo());
+        }
     }
 
-    private static SuperCar inputData(SuperCar c) {
+
+    private static ArrayList inputData(ArrayList myCarList) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Please enter supercar info:");
-        System.out.print("Enter Supercar brand: ");
-        c.setBrand(scanner.nextLine());
-        System.out.print("Enter Supercar color: ");
-        c.setColor(scanner.nextLine());
-        System.out.print("Enter Supercar size: ");
-        c.setSize(scanner.nextLine());
-        System.out.print("Enter Supercar max speed: ");
-        c.setMaxspeed(scanner.nextLine());
-        System.out.print("Enter Supercar rigin: ");
-        c.setRigin(scanner.nextLine());
-
-        return c;
-    }
-
-
-   private static void getSuperCarInfo(SuperCar c1) {
-        System.out.println("Brand: "+ c1.getBrand());
-        System.out.println("Color: "+ c1.getColor());
-        System.out.println("Size: "+ c1.getSize());
-        System.out.println("Maxspeed: "+ c1.getMaxspeed());
-        System.out.println("Rigin: "+ c1.getRigin());
-    }
+        for (int i = 0; i < 2; i++) {
+            System.out.println("Super car: " + (i + 1));
+            System.out.print("Enter Supercar brand: ");
+            String b = (scanner.nextLine());
+            System.out.print("Enter Supercar color: ");
+            String c = (scanner.nextLine());
+            System.out.print("Enter Supercar size: ");
+            String s = (scanner.nextLine());
+            System.out.print("Enter Supercar max speed: ");
+            String m = (scanner.nextLine());
+            System.out.print("Enter Supercar rigin: ");
+            String r = (scanner.nextLine());
+            SuperCar car = new SuperCar(b, c, s, m, r);
+            myCarList.add(car);
+        }
+            return myCarList;
+        }
 
 
 }//class

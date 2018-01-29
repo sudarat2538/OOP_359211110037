@@ -16,20 +16,35 @@ public class SuperCar {
         this.rigin = r;
 
     }
-    public void setBrand(String brand){
-        this.brand = brand;
-    }
-    public String getBrand(){
-        return this.brand;
-    }
-    public String getColor() { return color; }
-    public void setColor(String color) { this.color = color; }
-    public String getSize() { return size; }
-    public void setSize(String size) { this.size = size; }
-    public String getMaxspeed() { return maxspeed; }
-    public void setMaxspeed(String maxspeed) { this.maxspeed = maxspeed; }
-    public String getRigin() { return rigin; }
-    public void setRigin(String rigin) { this.rigin = rigin; }
+    public void setBrand(String brand)
+    { this.brand = brand; }
+    public String getBrand()
+    { return this.brand; }
+    public String getColor()
+    { return color; }
+    public void setColor(String color)
+    { this.color = color; }
+    public String getSize()
+    { return size; }
+    public void setSize(String size)
+    { this.size = size; }
+    public String getMaxspeed()
+    { return maxspeed; }
+    public void setMaxspeed(String maxspeed)
+    { this.maxspeed = maxspeed; }
+    public String getRigin()
+    { return rigin; }
+    public void setRigin(String rigin)
+    { this.rigin = rigin; }
 
 
+    public String getSuperCarInfo() {
+        return "SuperCar{" +
+                "brand='" + brand + '\'' +
+                ", color='" + color + '\'' +
+                ", size='" + size + '\'' +
+                ", maxspeed='" + maxspeed + '\'' +
+                ", rigin='" + rigin + '\'' +
+                '}';
+    }
 }//class

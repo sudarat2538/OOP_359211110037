@@ -1,12 +1,12 @@
 package ooplap8;
 
-public class Pet {
+public abstract class Pet {
     private String name;
     private String hairColor;
     private String gender;
     private int age;
 
-    public void makeNoise(){}
+    protected  abstract void makeNoise();
     //constructor กดออติเนส อินเสิด
     //2.กดออติเนส อินเสิด เลือกtoString
     @Override
